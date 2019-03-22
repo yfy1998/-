@@ -1,0 +1,23 @@
+.Lug{
+    margin-left: 41%;
+    margin-top: 5px;
+    padding: 0px;
+    width: 230px;
+    height: 140px;
+    border: 2px solid;
+    border-color: rgb(55, 109, 91);
+    border-radius: 5px;
+}
+
+.Lug-label{
+    text-align: right;
+    width: 40px;
+    height: 25px;
+    margin-right: 8px;
+    display: inline-block;
+}
+
+.Lug-input{
+    margin-top: 5px;
+    border-radius: 3px;
+}

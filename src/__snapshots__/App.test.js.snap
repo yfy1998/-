@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`basic use 1`] = `
+<div
+  class="App"
+>
+  <a
+    class="App-link"
+    href="http://www.csair.com/cn/tourguide/luggage_service/carryon_luggage/free_luggage/"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    行李托运规则
+  </a>
+  <br />
+  <label
+    class="App-label"
+  >
+    航班
+  </label>
+  <select
+    class="App-input"
+    name="flight"
+  >
+    <option
+      selected=""
+      value="in"
+    >
+      国内航班
+    </option>
+    <option
+      value="out"
+    >
+      国际航班
+    </option>
+  </select>
+  <br />
+  <label
+    class="App-label"
+  >
+    舱位
+  </label>
+  <select
+    class="App-input"
+    name="type"
+  >
+    <option
+      selected=""
+      value="a"
+    >
+      头等舱
+    </option>
+    <option
+      value="b"
+    >
+      公务舱
+    </option>
+    <option
+      value="c"
+    >
+      经济舱
+    </option>
+    <option
+      value="d"
+    >
+      不占座婴儿
+    </option>
+  </select>
+  <br />
+  <label
+    class="App-label"
+  >
+    游客类型
+  </label>
+  <select
+    class="App-input"
+    name="touristtype"
+  >
+    <option
+      selected=""
+      value="a"
+    >
+      普通
+    </option>
+    <option
+      value="b"
+    >
+      南航明珠金卡会员、天合联盟超级精英
+    </option>
+    <option
+      value="c"
+    >
+      南航明珠银卡会员、天合联盟精英
+    </option>
+    <option
+      value="d"
+    >
+      留学生、劳务、海员
+    </option>
+  </select>
+  <br />
+  <label
+    class="App-label"
+  >
+    单日最高票价
+  </label>
+  <input
+    class="App-input"
+    name="highestprice"
+    type="text"
+    value=""
+  />
+  <br />
+  <label
+    class="App-label"
+  >
+    行李件数
+  </label>
+  <input
+    class="App-input"
+    name="count"
+    type="text"
+    value=""
+  />
+  <br />
+  <button
+    class="App-button"
+  >
+    计算费用
+  </button>
+  <p
+    style="white-space:pre;font-size:20px;color:red"
+  />
+</div>
+`;

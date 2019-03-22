@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot2 1`] = `
+<div
+  class="Lug"
+>
+  <label>
+    第NaN件行李
+  </label>
+  <br />
+  <label
+    class="Lug-label"
+  >
+    重量
+  </label>
+  <input
+    class="Lug-input"
+    name="weight"
+    type="text"
+  />
+  <br />
+  <label
+    class="Lug-label"
+  >
+    长
+  </label>
+  <input
+    class="Lug-input"
+    name="long"
+    type="text"
+  />
+  <br />
+  <label
+    class="Lug-label"
+  >
+    宽
+  </label>
+  <input
+    class="Lug-input"
+    name="width"
+    type="text"
+  />
+  <br />
+  <label
+    class="Lug-label"
+  >
+    高
+  </label>
+  <input
+    class="Lug-input"
+    name="height"
+    type="text"
+  />
+  <br />
+</div>
+`;
